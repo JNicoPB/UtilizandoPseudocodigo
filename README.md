@@ -4,7 +4,7 @@ Algoritmo que permite mostrar un producto con sus caracteristicas
 _Escribir un programa en pseudocódigo que permita escribir un algoritmo que imprima el nombre de un artículo, el código, precio original y su precio con descuento. El descuento lo hace en base al código, si el código es 1, el descuento es del 10% y si el código es 2 el descuento es del 20%. (solo existen 2 códigos)._
 
 ```Algoritmo ActividadUtilizandoPseudocodigo
-	**Escribir "Hola bienvenido a tu tienda virtual"**
+	**Escribir** "Hola bienvenido a tu tienda virtual"
 	Escribir "Escribe el nombre del articulo que deseas"
 	Leer Articulo
 	Escribir "Escribe el codigo del articulo para acceder al descuento: 1 o 2"
