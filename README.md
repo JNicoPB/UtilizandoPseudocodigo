@@ -6,6 +6,8 @@ _Escribir un programa en pseudocódigo que permita escribir un algoritmo que imp
 ```
 Algoritmo ActividadUtilizandoPseudocodigo
 
+<font face="Comic Sans MS,arial,verdana">Este texto tiene otra tipografía</font>
+
 	Escribir "Hola bienvenido a tu tienda virtual"
 	Escribir "Escribe el nombre del articulo que deseas"
 	Leer Articulo
