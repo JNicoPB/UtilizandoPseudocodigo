@@ -28,6 +28,7 @@ _Escribir un programa en pseudocódigo que permita escribir un algoritmo que imp
 	Imprimir "En total pagas: $" Total_a_pagar
 	Imprimir "Gracias por tu compra, vuelve pronto"
 	
+	
 FinAlgoritmo
 ```
 
