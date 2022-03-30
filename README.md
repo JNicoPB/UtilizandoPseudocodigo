@@ -5,7 +5,7 @@ _Escribir un programa en pseudocódigo que permita escribir un algoritmo que imp
 
 ```Algoritmo ActividadUtilizandoPseudocodigo
 
-	**Escribir** "Hola bienvenido a tu tienda virtual"
+	Escribir **"Hola bienvenido a tu tienda virtual"**
 	Escribir "Escribe el nombre del articulo que deseas"
 	Leer Articulo
 	Escribir "Escribe el codigo del articulo para acceder al descuento: 1 o 2"
